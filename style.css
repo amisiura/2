@@ -1,7 +1,7 @@
 tr:nth-child(even){
-background-color:#C6E2FF;
+background-color:rgb(221,235,277);
 }
 
 td:nth-child(odd):not(:first-child){
-background-color:#CDC5BF;
+background-color:rgb(242,242,222);
 }
